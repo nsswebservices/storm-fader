@@ -1,4 +1,9 @@
-(function(root, factory) {
+/**
+ * @name storm-fader: Fading slideshow/carousel
+ * @version 0.1.0: Fri, 12 Aug 2016 15:38:18 GMT
+ * @author stormid
+ * @license MIT
+ */(function(root, factory) {
   if (typeof exports === 'object') {
     module.exports = factory();
   } else {

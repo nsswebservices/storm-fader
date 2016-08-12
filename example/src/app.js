@@ -11,7 +11,7 @@ var UTILS = {
 			};
 
 		return {
-			polyfill: polyfill
+			init: init
 		};
 
 	})(window, document, undefined);
